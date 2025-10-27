@@ -1,5 +1,7 @@
 # ma1805-mini-portfolio
 
+Tom Keene
+
 https://anthillsocial.github.io/ma1805-mini-portfolio/
 
 [01.Drawing](01.Drawing/index.html) 
